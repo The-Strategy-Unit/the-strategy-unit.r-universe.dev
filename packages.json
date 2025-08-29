@@ -1,6 +1,14 @@
 [
+    {
+    "package": "azkit",
+    "url": "https://github.com/The-Strategy-Unit/azkit"
+  },
   {
     "package": "StrategyUnitTheme",
     "url": "https://github.com/The-Strategy-Unit/StrategyUnitTheme"
+  },
+      {
+    "package": "reskit",
+    "url": "https://github.com/The-Strategy-Unit/nhp_reskit"
   }
 ]
